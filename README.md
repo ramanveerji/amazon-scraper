@@ -94,6 +94,8 @@ _Note : All currencies are in INR (₹)_
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tuhinpal/amazon-scraper)
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ramanveerji/amazon-scraper)
+
 ### Development
 
 - Install dependencies
